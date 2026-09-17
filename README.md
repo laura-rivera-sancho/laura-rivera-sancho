@@ -1,40 +1,29 @@
-# Hi, I’m Laura Rivera
+# Laura Rivera
 
-I’m an AI Product and Data professional with more than eight years of
-experience turning complex business needs into practical products,
-analytics solutions, and measurable improvements.
+I work across AI product development, analytics, and experimentation. My background includes product discovery, stakeholder collaboration, data analysis, AI workflow design, and delivery. I use this portfolio to show how I frame decisions, test assumptions, and communicate technical work clearly.
 
-My background combines product discovery, stakeholder collaboration,
-data analysis, AI workflow design, experimentation, and delivery execution.
+## Portfolio projects
 
-## What I Work On
+| Repository | What it covers |
+|---|---|
+| [Analytics Standard Framework](https://github.com/laura-rivera-sancho/analytics-standard-framework) | A/B testing, pre/post analysis, targeting, diagnostic analysis, customer value, marketing experimentation, and macro correlation. Each module pairs reusable guidance with a fictional case and reproducible analysis. |
+| [Data Architecture Standard Framework](https://github.com/laura-rivera-sancho/data-architecture-standard-framework) | Source contracts, staging, dimensional models, data marts, governed metrics, quality checks, and operational documentation for a fictional retailer. |
+| [Machine Learning Standard Framework](https://github.com/laura-rivera-sancho/machine-learning-standard-framework) | Supervised prediction, customer segmentation, model evaluation, and production-readiness controls using synthetic cases. |
 
-- AI product discovery and requirements definition
-- LLM workflows and prompt engineering
-- Conversational and customer-experience analytics
-- Product experimentation and impact measurement
-- Data analytics, KPI design, and business intelligence
-- Backlog, delivery, and process optimization
+The case studies use fictional organizations and synthetic data. Their results demonstrate analytical methods; they are not claims about production deployments or client outcomes.
 
-## Featured Projects
+## Areas of focus
 
-I’m currently developing a portfolio of hands-on projects covering:
+- **Analytics and business intelligence:** KPI design, diagnostic analysis, reporting, and decision support.
+- **Experimentation:** test design, causal interpretation, uncertainty, guardrails, and practical impact.
+- **Data and machine learning:** analytical data modeling, predictive evaluation, segmentation, and model governance.
+- **AI product work:** product discovery, LLM workflows, conversational analytics, and delivery planning.
 
-- Voice of the Customer LLM Pipeline
-- Conversational AI Intent Discovery
-- Product Impact and Experimentation Analysis
-- AI Product Discovery Toolkit
-- Analytics Product Delivery Framework
+## Tools
 
-## Tools and Capabilities
+Python, SQL, Power BI, Tableau, Snowflake, Exasol, Jira, and Confluence. I also work with LLM tools and structured-output workflows.
 
-**AI and LLMs:** ChatGPT, Ollama, Llama, Mistral, prompt engineering, structured outputs
+## Connect
 
-**Data and Analytics:** Python, SQL, Exasol, Snowflake, Power BI, Tableau
-
-**Product and Delivery:** Jira, Confluence, Agile, product discovery, user stories, acceptance criteria, UAT
-
-## Connect With Me
-
-- [LinkedIn](linkedin.com/in/laura-rivera-sancho-970223128)
+- [LinkedIn](https://www.linkedin.com/in/laura-rivera-sancho-970223128/)
 - Email: laura.riverasancho33@gmail.com
