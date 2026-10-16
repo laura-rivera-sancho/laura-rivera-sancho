@@ -6,6 +6,7 @@ I work across AI product development, analytics, and experimentation. My backgro
 
 | Repository | What it covers |
 |---|---|
+| [LLM Voice of Customer Analytics](https://github.com/laura-rivera-sancho/llm-systems-framework) | An offline-first Gemini and Streamlit workflow that turns synthetic B2B SaaS feedback into evidence-grounded, reviewable signals, with a documented business problem, architecture, sample results, human evaluation, and confidentiality safeguards. |
 | [Analytics Standard Framework](https://github.com/laura-rivera-sancho/analytics-standard-framework) | A/B testing, pre/post analysis, targeting, diagnostic analysis, customer value, marketing experimentation, and macro correlation. Each module pairs reusable guidance with a fictional case and reproducible analysis. |
 | [Data Architecture Standard Framework](https://github.com/laura-rivera-sancho/data-architecture-standard-framework) | Source contracts, staging, dimensional models, data marts, governed metrics, quality checks, and operational documentation for a fictional retailer. |
 | [Machine Learning Standard Framework](https://github.com/laura-rivera-sancho/machine-learning-standard-framework) | Supervised prediction, customer segmentation, model evaluation, and production-readiness controls using synthetic cases. |
