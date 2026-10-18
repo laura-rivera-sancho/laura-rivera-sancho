@@ -17,6 +17,8 @@ Based in Costa Rica · English / Español · Working hours aligned with the US (
 | **Fractional AI Product and Delivery Leadership** | Teams with AI work stuck between pilot and production | Ongoing part-time engagement | Prioritized roadmap, delivery backlog, evaluation plan, governance decisions, and launch-readiness coordination |
 | **Analytics and Experimentation Support** | Teams needing dependable KPIs, experiment design, impact analysis, or a decision-ready readout | Focused project or advisory sprint, typically 2–3 weeks | Validated analysis, experiment or measurement design, decision memo, and executive presentation |
 
+[View detailed pilot scopes, inputs, acceptance criteria, and exclusions.](PILOT_OFFERS.md)
+
 Exact scope depends on data readiness, access requirements, and the decision the work must support.
 
 I work best with fintech, payments, e-commerce, SaaS, and contact-center teams in English or Spanish.
