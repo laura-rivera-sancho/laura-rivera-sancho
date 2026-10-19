@@ -4,7 +4,7 @@
 
 Based in Costa Rica · English / Español · Working hours aligned with the US (UTC−6)
 
-[Email me](mailto:laura.riverasancho33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/laura-rivera-sancho-970223128/)
+[Email me](mailto:laura.riverasancho33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/laura-rivera-sancho/)
 
 ---
 
@@ -22,6 +22,14 @@ Based in Costa Rica · English / Español · Working hours aligned with the US (
 Exact scope depends on data readiness, access requirements, and the decision the work must support.
 
 I work best with fintech, payments, e-commerce, SaaS, and contact-center teams in English or Spanish.
+
+### Delivery evidence at a glance
+
+<a href="https://voice-of-customer-llm-analytics.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/laura-rivera-sancho/voice-of-customer-llm-analytics/main/assets/dashboard-preview.png" alt="Customer Conversation Intelligence dashboard preview showing reviewable synthetic feedback signals" width="100%">
+</a>
+
+*Interactive synthetic demonstration—[open the live dashboard](https://voice-of-customer-llm-analytics.streamlit.app/) or [review the evidence and limitations](https://github.com/laura-rivera-sancho/voice-of-customer-llm-analytics#demonstration-evidence).*
 
 ## How I work
 
@@ -64,4 +72,4 @@ If your team is facing a pile of customer conversations, an AI launch you cannot
 
 I’ll tell you whether I can help and what the smallest useful first step could look like.
 
-[Email me](mailto:laura.riverasancho33@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/laura-rivera-sancho-970223128/)
+[Email me](mailto:laura.riverasancho33@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/laura-rivera-sancho/)
